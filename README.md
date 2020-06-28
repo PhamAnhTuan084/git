@@ -1,2 +1,7 @@
-# git
-How to use Github
+#include<iostream>
+  using namespace std;
+
+int main()
+{
+  cout << "Hello wolrd";
+}
